@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MarxCoin
+Comment=MarxCoin P2P Cryptocurrency
+Comment[fr]=MarxCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MarxCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/marxcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/marxcoin;
+Categories=Office;

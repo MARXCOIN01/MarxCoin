@@ -1,0 +1,2 @@
+debian/bin/marxcoind usr/bin
+src/marxcoind usr/lib/marxcoin
